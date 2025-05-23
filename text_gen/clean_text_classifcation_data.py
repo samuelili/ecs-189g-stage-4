@@ -30,9 +30,9 @@ def clean_data(dataset):
 
     return dataset
 
-with open("./text_classification_train_raw", "rb") as f:
+with open("text_classification_train_raw", "rb") as f:
     train_data = pickle.load(f)
-with open("./text_classification_test_raw", "rb") as f:
+with open("text_classification_test_raw", "rb") as f:
     test_data = pickle.load(f)
 
 # see some random data
