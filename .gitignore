@@ -1,3 +1,5 @@
 stage_4_data/text_classification/*
 stage_4_data/text_generation/*
 venv/
+.DS_Store
+**/.DS_Store
