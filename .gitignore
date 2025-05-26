@@ -7,3 +7,5 @@ text_class/text_classification_test_raw
 text_class/text_classification_test_words
 text_class/text_classification_train_raw
 text_class/text_classification_train_words
+.idea
+stage_4_data
